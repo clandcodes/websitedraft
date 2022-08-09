@@ -1,2 +1,3 @@
 # websitedraft
-The most basic website i can come up with
+Here is a basic website draft.
+Trying to learn github.
